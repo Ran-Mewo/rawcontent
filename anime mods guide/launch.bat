@@ -2,9 +2,11 @@
 setlocal enabledelayedexpansion
 
 :: Specify the path to the 3DMigoto's Executable (including the executable name)
-set "migotoFullPath=<insert full path to your 3DMigoto's executable>" :: Example: set "migotoFullPath=/home/Nya/Anime Mods/ZZMI/ZZZ3dmLoader.exe"
+  :: Example: set "migotoFullPath=/home/Nya/Anime Mods/ZZMI/ZZZ3dmLoader.exe"
+set "migotoFullPath=<insert full path to your 3DMigoto's executable>"
 :: Specify the path to the game directory (NOT including the executable name)
-set "gameDirectory=<insert the path to the game directory>" :: Example: set "gameDirectory=/home/Nya/Anime Games/Zenless Zone Zero
+  :: Example: set "gameDirectory=/home/Nya/Anime Games/Zenless Zone Zero
+set "gameDirectory=<insert the path to the game directory>"
 
 
 
